@@ -1,0 +1,11 @@
+<script src="<%=request.getContextPath()%>/js/jquery-1.11.1.min.js"></script>
+<script src="<%=request.getContextPath()%>/js/jquery-migrate-1.2.1.min.js"></script>	
+<script src="<%=request.getContextPath()%>/js/bootstrap.min.js"></script>
+<script src="<%=request.getContextPath()%>/js/bootstrap-hover-dropdown.min.js"></script>
+<script src="<%=request.getContextPath()%>/js/jquery.magnific-popup.min.js"></script>
+<script src="<%=request.getContextPath()%>/js/owl.carousel.min.js"></script>
+<script src="<%=request.getContextPath()%>/js/custom.js"></script>
+<script src="<%=request.getContextPath()%>/js/angular.js"></script>
+<script src="<%=request.getContextPath()%>/js/ngCart.fulfilment.js"></script>
+<script src="<%=request.getContextPath()%>/js/ngCart.directives.js"></script>
+<script src="<%=request.getContextPath()%>/js/script.js"></script>
